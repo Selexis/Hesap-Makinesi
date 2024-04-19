@@ -1,0 +1,48 @@
+C:\Users\mkucu\OneDrive\Masaüstü\Bilgisayar Programcılığı\2.Sene\Görsel Programlama\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\mkucu\OneDrive\Masaüstü\Bilgisayar Programcılığı\2.Sene\Görsel Programlama\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\mkucu\OneDrive\Masaüstü\Bilgisayar Programcılığı\2.Sene\Görsel Programlama\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\mkucu\OneDrive\Masaüstü\Bilgisayar Programcılığı\2.Sene\Görsel Programlama\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.xml
+C:\Users\mkucu\OneDrive\Masaüstü\Bilgisayar Programcılığı\2.Sene\Görsel Programlama\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.vbproj.AssemblyReference.cache
+C:\Users\mkucu\OneDrive\Masaüstü\Bilgisayar Programcılığı\2.Sene\Görsel Programlama\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\mkucu\OneDrive\Masaüstü\Bilgisayar Programcılığı\2.Sene\Görsel Programlama\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Resources.resources
+C:\Users\mkucu\OneDrive\Masaüstü\Bilgisayar Programcılığı\2.Sene\Görsel Programlama\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.vbproj.GenerateResource.cache
+C:\Users\mkucu\OneDrive\Masaüstü\Bilgisayar Programcılığı\2.Sene\Görsel Programlama\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.vbproj.CoreCompileInputs.cache
+C:\Users\mkucu\OneDrive\Masaüstü\Bilgisayar Programcılığı\2.Sene\Görsel Programlama\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\mkucu\OneDrive\Masaüstü\Bilgisayar Programcılığı\2.Sene\Görsel Programlama\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.xml
+C:\Users\mkucu\OneDrive\Masaüstü\Bilgisayar Programcılığı\2.Sene\Görsel Programlama\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
+C:\Users\Yavuz Selim Sarıhan\Desktop\Yeni klasör\Hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\Yavuz Selim Sarıhan\Desktop\Yeni klasör\Hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\Yavuz Selim Sarıhan\Desktop\Yeni klasör\Hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\Yavuz Selim Sarıhan\Desktop\Yeni klasör\Hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.xml
+C:\Users\Yavuz Selim Sarıhan\Desktop\Yeni klasör\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.vbproj.AssemblyReference.cache
+C:\Users\Yavuz Selim Sarıhan\Desktop\Yeni klasör\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\Yavuz Selim Sarıhan\Desktop\Yeni klasör\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Resources.resources
+C:\Users\Yavuz Selim Sarıhan\Desktop\Yeni klasör\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.vbproj.GenerateResource.cache
+C:\Users\Yavuz Selim Sarıhan\Desktop\Yeni klasör\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.vbproj.CoreCompileInputs.cache
+C:\Users\Yavuz Selim Sarıhan\Desktop\Yeni klasör\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\Yavuz Selim Sarıhan\Desktop\Yeni klasör\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.xml
+C:\Users\Yavuz Selim Sarıhan\Desktop\Yeni klasör\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
+C:\Users\Yavuz Selim Sarıhan\Desktop\fkNot\Hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\Yavuz Selim Sarıhan\Desktop\fkNot\Hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\Yavuz Selim Sarıhan\Desktop\fkNot\Hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\Yavuz Selim Sarıhan\Desktop\fkNot\Hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.xml
+C:\Users\Yavuz Selim Sarıhan\Desktop\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.vbproj.AssemblyReference.cache
+C:\Users\Yavuz Selim Sarıhan\Desktop\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\Yavuz Selim Sarıhan\Desktop\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Resources.resources
+C:\Users\Yavuz Selim Sarıhan\Desktop\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.vbproj.GenerateResource.cache
+C:\Users\Yavuz Selim Sarıhan\Desktop\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.vbproj.CoreCompileInputs.cache
+C:\Users\Yavuz Selim Sarıhan\Desktop\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\Yavuz Selim Sarıhan\Desktop\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.xml
+C:\Users\Yavuz Selim Sarıhan\Desktop\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
+C:\Users\Yavuz Selim Sarihan\Desktop\aaaaSelim\Yeni klasör (2)\Dersler\Görsel Programlama\not\fkNot\Hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\Yavuz Selim Sarihan\Desktop\aaaaSelim\Yeni klasör (2)\Dersler\Görsel Programlama\not\fkNot\Hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\Yavuz Selim Sarihan\Desktop\aaaaSelim\Yeni klasör (2)\Dersler\Görsel Programlama\not\fkNot\Hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\Yavuz Selim Sarihan\Desktop\aaaaSelim\Yeni klasör (2)\Dersler\Görsel Programlama\not\fkNot\Hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.xml
+C:\Users\Yavuz Selim Sarihan\Desktop\aaaaSelim\Yeni klasör (2)\Dersler\Görsel Programlama\not\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.vbproj.AssemblyReference.cache
+C:\Users\Yavuz Selim Sarihan\Desktop\aaaaSelim\Yeni klasör (2)\Dersler\Görsel Programlama\not\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\Yavuz Selim Sarihan\Desktop\aaaaSelim\Yeni klasör (2)\Dersler\Görsel Programlama\not\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Resources.resources
+C:\Users\Yavuz Selim Sarihan\Desktop\aaaaSelim\Yeni klasör (2)\Dersler\Görsel Programlama\not\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.vbproj.GenerateResource.cache
+C:\Users\Yavuz Selim Sarihan\Desktop\aaaaSelim\Yeni klasör (2)\Dersler\Görsel Programlama\not\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.vbproj.CoreCompileInputs.cache
+C:\Users\Yavuz Selim Sarihan\Desktop\aaaaSelim\Yeni klasör (2)\Dersler\Görsel Programlama\not\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\Yavuz Selim Sarihan\Desktop\aaaaSelim\Yeni klasör (2)\Dersler\Görsel Programlama\not\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.xml
+C:\Users\Yavuz Selim Sarihan\Desktop\aaaaSelim\Yeni klasör (2)\Dersler\Görsel Programlama\not\fkNot\Hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
